@@ -1,0 +1,7 @@
+apiVersion: webhookdemo.webhookdemo/v1
+kind: WebHookDemo
+metadata:
+  name: webhookdemo-sample
+spec:
+  # Add fields here
+  foo: bar

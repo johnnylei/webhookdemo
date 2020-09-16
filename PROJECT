@@ -1,0 +1,7 @@
+version: "2"
+domain: webhookdemo
+repo: github.com/johnnylei/webhookdemo
+resources:
+- group: webhookdemo
+  version: v1
+  kind: WebHookDemo
